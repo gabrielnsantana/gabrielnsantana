@@ -19,9 +19,6 @@
     Eu sou um apaixonado, athletico, full stack desenvolvidor de software e ocasionalmente criador de conteúdo. Meu objetivo é tornar a vida das pessoas melhor e mais fácil, desenvolvendo aplicativos e sites. Também adoro ensinar programação, pois acredito que a programação pode capacitar as pessoas a atingir todo o seu potencial e viver uma vida melhor. É por isso que ocasionalmente posto vídeos de codificação e tecnologia. Além disso, sou uma pessoa muito atlética.
 <br>
 <br>
-<div align="center">
-
-[Email Me](mailto:gabrielnunessantana21@gmail.com)
 </div>
 </p>    
 <br>
