@@ -13,6 +13,8 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Gabriel N. Santana </h1>
 
+<p align="center">
+ 
 ![github_cover_banner](https://media.discordapp.net/attachments/1101638177476853951/1101638524056375366/avatar-biel-desenho.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
