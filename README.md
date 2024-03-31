@@ -18,7 +18,7 @@
 ![github_cover_banner](https://media.discordapp.net/attachments/1101638177476853951/1101638524056375366/avatar-biel-desenho.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Eu sou um apaixonado, athletico, full stack desenvolvidor de software e ocasionalmente criador de conteúdo. Meu objetivo é tornar a vida das pessoas melhor e mais fácil, desenvolvendo aplicativos e sites. Também adoro ensinar programação, pois acredito que a programação pode capacitar as pessoas a atingir todo o seu potencial e viver uma vida melhor. É por isso que ocasionalmente posto vídeos de codificação e tecnologia. Além disso, sou uma pessoa muito atlética.
+    Eu sou um apaixonado, athletico, full stack desenvolvidor de software. Meu objetivo é tornar a vida das pessoas melhor e mais fácil, desenvolvendo softwares. Também adoro ensinar programação, pois acredito que a programação pode capacitar as pessoas a atingir todo o seu potencial e viver uma vida melhor. Além disso, sou uma pessoa muito atlética.
 <br>
 <br>
 </div>
