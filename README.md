@@ -26,7 +26,7 @@
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Linguagens</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -111,36 +111,11 @@
 <br>
 <br>
 
-<!-- Latest YouTube Videos -->
-
-<h2 style="color: #44AEFB">🎦 YouTube </h2>
-<br />
-
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
-
-
-<!-- END YOUTUBE-CARDS -->
-</div>
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UCideEdoIVcVKPZDIhiIyrtw"  target="_blank">
-        <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/channel/UCideEdoIVcVKPZDIhiIyrtw"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-</div>
-<br>
-<!-- End Youtube Buttons -->
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📊 Estatistica</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
