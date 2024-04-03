@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor de sistemas  
+    Sou Programador 
      
   
 </div>
