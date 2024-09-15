@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Programador, estou cursando em área de TI em análise desenvolvimento de sistemas.
+    Sou Programador, sou estudante cursando em área de TI em análise e desenvolvimento de sistemas.
      
   
 </div>
