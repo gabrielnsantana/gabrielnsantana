@@ -78,7 +78,7 @@
 
 ![Gabriel N. Santana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielNSantana&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&show_icons=true&theme=algolia&border_radius=20) -->
     
