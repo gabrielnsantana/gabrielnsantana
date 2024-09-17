@@ -78,7 +78,7 @@
 
 ![Gabriel N. Santana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielNSantana&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielNSantanaDenverCoder1)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielNSantana)]
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&show_icons=true&theme=algolia&border_radius=20) -->
     
