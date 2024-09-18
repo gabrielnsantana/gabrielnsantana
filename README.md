@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Programador, sou estudante cursando em área de TI em análise e desenvolvimento de sistemas.
+    Sou Programador, sou estudante cursando em área de TI em análise e desenvolvimento de sistemas.Bem-vido ao meu GitHub!
      
   
 </div>
@@ -18,7 +18,13 @@
 ![github_cover_banner](https://media.discordapp.net/attachments/1101638177476853951/1101638524056375366/avatar-biel-desenho.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Eu sou um apaixonado, athletico, full stack desenvolvidor de software. Meu objetivo é tornar a vida das pessoas melhor e mais fácil, desenvolvendo softwares. Também adoro ensinar programação, pois acredito que a programação pode capacitar as pessoas a atingir todo o seu potencial e viver uma vida melhor. Além disso, sou uma pessoa muito atlética.
+Sou um desenvolvedor com experiência em Java, Python, JavaScript, React, HTML e CSS. Minha paixão é criar soluções de software inovadoras que simplificam a vida das pessoas. 
+  
+Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade. Por isso, dedico parte do meu tempo a compartilhar meu conhecimento com outros desenvolvedores através de GitHub.
+
+Minha experiência como atleta me proporcionou uma grande capacidade de trabalho em equipe, resiliência e foco em resultados. Essas habilidades são fundamentais para enfrentar os desafios do desenvolvimento de software e entregar projetos de alta qualidade.
+
+
 <br>
 <br>
 </div>
