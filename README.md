@@ -82,7 +82,7 @@ Minha experiência como atleta me proporcionou uma grande capacidade de trabalho
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Gabriel N. Santana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielnsantana&show_icons=true&theme=algolia&border_radius=20)
+![Gabriel N. Santana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielnsantana&show_icons=true&theme=algolia&border)
 
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&show_icons=true&theme=algolia&border_radius=20) -->
