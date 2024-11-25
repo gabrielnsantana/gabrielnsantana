@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Programador, sou estudante cursando em área de TI em análise e dev. de sistemas. Bem-vido ao meu GitHub!
+    Sou Programador, sou estudante cursando em análise e dev. de sistemas. Bem-vido ao meu GitHub!
      
   
 </div>
