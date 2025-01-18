@@ -4,8 +4,6 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/gabriel-n-santana/">Gabriel N. Santana</a>
     seja bem vindo(a) ao meu perfil GitHub.
- 
-
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Gabriel N. Santana </h1>
 
 <p align="center">
