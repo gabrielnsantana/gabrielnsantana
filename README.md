@@ -2,12 +2,12 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/gabriel-nunes-santana-269004213/">Gabriel N. Santana 😃️</a>
+    <a href="https://www.linkedin.com/in/gabriel-nunes-santana-269004213/">Gabriel N. Santana</a>
     seja bem vindo(a) ao meu perfil GitHub.
   </h1>
   
   <p align="center">
-    Sou Programador, sou estudante cursando em análise e dev. de sistemas. Bem-vido ao meu GitHub!
+    Sou Programador, sou estudante cursando em análise e dev. de sistemas.
      
   
 </div>
