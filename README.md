@@ -44,7 +44,7 @@ Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualme
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
@@ -62,7 +62,8 @@ Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualme
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&layout=compact&show_icons=true&theme=algolia&border_radius=9" 
   />
-
+<br>
+<br>
 
 <div align="center">
   <a href="https://www.youtube.com/c/GabrielGNS" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
