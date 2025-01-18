@@ -20,7 +20,7 @@ Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualme
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Linguagens</h2>
+<h2 style="color: #44AEFB">🤖 Linguagens</h2>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Biel-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
