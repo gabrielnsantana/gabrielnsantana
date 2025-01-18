@@ -2,12 +2,12 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/gabriel-nunes-santana-269004213/">Gabriel N. Santana</a>
+    <a href="https://www.linkedin.com/in/gabriel-n-santana/">Gabriel N. Santana</a>
     seja bem vindo(a) ao meu perfil GitHub.
   </h1>
   
   <p align="center">
-    Sou Programador, sou estudante cursando em análise e dev. de sistemas.
+    Sou Programador, sou estudante cursando em análise e desenvolvimento de sistemas.
      
   
 </div>
@@ -129,7 +129,7 @@ https://www.svgrepo.com/
  	<a href="https://www.twitch.tv/gabrielgns21" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/VEYUK6g2Q6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielnunessantana21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-nunes-santana-269004213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-n-santana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
