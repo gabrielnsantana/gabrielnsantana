@@ -18,7 +18,7 @@
 ![github_cover_banner](https://media.discordapp.net/attachments/1101638177476853951/1101638524056375366/avatar-biel-desenho.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Sou um desenvolvedor com experiência em Java, Python, JavaScript, React, HTML e CSS. Minha paixão é criar soluções de software inovadoras que simplificam a vida das pessoas. 
+Sou um estudante desenvolvedor em ADS, estudando Java, Python, JavaScript, React, HTML e CSS. Experiência com Web Devoleper, Back-End, Front-End, Banco de dados. Minha paixão é criar soluções de software inovadoras que simplificam a vida das pessoas. 
   
 Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade. Por isso, dedico parte do meu tempo a compartilhar meu conhecimento com outros desenvolvedores através de GitHub.
 
