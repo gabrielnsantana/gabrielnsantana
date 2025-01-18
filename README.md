@@ -4,13 +4,7 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/gabriel-n-santana/">Gabriel N. Santana</a>
     seja bem vindo(a) ao meu perfil GitHub.
-  </h1>
-  
-  <p align="center">
-    Sou Programador, sou estudante cursando em análise e desenvolvimento de sistemas.
-     
-  
-</div>
+ 
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Gabriel N. Santana </h1>
 
@@ -19,13 +13,8 @@
 ![github_cover_banner](https://media.discordapp.net/attachments/1101638177476853951/1101638524056375366/avatar-biel-desenho.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Sou um estudante desenvolvedor em ADS, estudando Java, Python, JavaScript, React, HTML e CSS. Experiência com Web Devoleper, Back-End, Front-End, Banco de dados. Minha paixão é criar soluções de software inovadoras que simplificam a vida das pessoas. 
+Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualmente cursando Análise e Desenvolvimento de Sistemas na IPOG. Sou apaixonado po tecnologia e dedico parte do meu tempo a compartilhar meu conhecimento com outros desenvolvedores através de GitHub.
   
-Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade. Por isso, dedico parte do meu tempo a compartilhar meu conhecimento com outros desenvolvedores através de GitHub.
-
-Minha experiência como atleta me proporcionou uma grande capacidade de trabalho em equipe, resiliência e foco em resultados. Essas habilidades são fundamentais para enfrentar os desafios do desenvolvimento de software e entregar projetos de alta qualidade.
-
-
 <br>
 <br>
 </div>
@@ -42,9 +31,6 @@ Minha experiência como atleta me proporcionou uma grande capacidade de trabalho
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
