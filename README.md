@@ -49,8 +49,14 @@ Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualme
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrielnsantana&show_icons=true&theme=algolia&border"
+   />
+  <img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://streak-stats.demolab.com?user=gabrielnsantana&theme=algolia" alt="GitHub Streak" 
+  />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=gabrielnsantana&theme=algolia" alt="GitHub Streak" />
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
