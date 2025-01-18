@@ -27,30 +27,17 @@ Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualme
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>    
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Biel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Biel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt-"Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Biel-Python" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Biel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="right" alt="Biel-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
  </a>
 </div>
 <br>
@@ -61,53 +48,14 @@ Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualme
 
 <h2 style="color: #44AEFB">📊 Estatisticas</h2>
 
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
 ![Gabriel N. Santana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielnsantana&show_icons=true&theme=algolia&border)
 
 <img height="180em" src="https://streak-stats.demolab.com?user=gabrielnsantana&theme=algolia" alt="GitHub Streak" />
 
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNSantana&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-<!--  End Stats Cards -->
-
----
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
 
 <div align="center">
   <a href="https://www.youtube.com/c/GabrielGNS" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
