@@ -14,6 +14,17 @@
 Me chamo Gabriel Nunes Santana, tenho 20 anos e sou natural de Goiânia. Atualmente cursando Análise e Desenvolvimento de Sistemas na IPOG. Sou apaixonado po tecnologia e dedico parte do meu tempo a compartilhar meu conhecimento com outros desenvolvedores através de GitHub.
   
 <br>
+```JavaScript
+const gabriel = {
+	code: [Javascript, Typescript],
+	tools: [Angular, React, Node, Api Rest || RestFull],
+        styles: ["SCSS", "Tailwind CSS"]
+	techCommunities: {
+		speaker: "Portuguese, English",
+	},
+```
+
+<br>
 <br>
 </div>
 </p>    
